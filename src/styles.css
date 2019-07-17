@@ -8,8 +8,3 @@ body {
   font-family: sans-serif;
   text-align: center;
 }
-
-.draggable-container {
-  background-color: #ccc;
-  height: 500px;
-}
